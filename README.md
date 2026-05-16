@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yogesh%20Garg&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20.NET%20Core%20%7C%20React.js%20%7C%20Azure&descAlignY=55&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&lines=%F0%9F%9A%80+Building+Production-Ready+Web+Apps;%E2%98%81%EF%B8%8F+.NET+Core+%7C+React.js+%7C+Azure+Cloud;%F0%9F%8F%A2+Real+Estate+CRM+%40+Subh+Sankalp+Pvt+Ltd;%F0%9F%8E%93+VIT+Bhopal+CSE+%7C+Graduating+2025;%F0%9F" alt="Typing SVG" /></a>)](https://git.io/typing-svg)
+
 
 <p>
   <a href="https://linkedin.com/in/yogesh-garg-dev"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
